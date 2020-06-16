@@ -1,0 +1,24 @@
+{
+  "name": "Me_DailyDb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "bcrypt": "^4.0.1",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "is-date-object": "^1.0.2",
+    "joi": "^14.3.1",
+    "joi-objectid": "^3.0.1",
+    "lodash": "^4.17.15",
+    "mongoose": "^5.9.10",
+    "nodemon": "^2.0.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
